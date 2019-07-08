@@ -1,6 +1,6 @@
 # Jenkins-Shared-Library-Objects
 
-This repository goes along with my article about "Creating Stateful classes with Jenkins Shared-Library" on Medium.
+This repository goes along with my article about [Creating Stateful classes with Jenkins Shared-Library](https://medium.com/@ranrubin/creating-stateful-classes-with-jenkins-shared-library-76d4014ef0b2) on Medium.
 
 You can find the fully documented code from each section of the article in this repository under different branches:
 
